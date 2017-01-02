@@ -15,7 +15,7 @@ Can be found locally in `data/dowjones/tweets.searchapi.2016-xx-xx.json`
 
 ## Opinion Lexicon
 
-The Opinion Lexicon by Bing Liu can simply be downloaded from https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon. The library has been converted to a Python module provided locally in opinion.py.
+The Opinion Lexicon by Bing Liu can simply be downloaded from https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon. The library has been converted to a Python module provided locally in `opinion.py`.
 
 ## Sanders Twitter Corpus
 
