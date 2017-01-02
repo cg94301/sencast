@@ -1,0 +1,2986 @@
+[
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 21:24:49 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        69,
+                        73
+                    ],
+                    "text": "ASX"
+                },
+                {
+                    "indices": [
+                        74,
+                        81
+                    ],
+                    "text": "ausbiz"
+                },
+                {
+                    "indices": [
+                        82,
+                        91
+                    ],
+                    "text": "DOWJONES"
+                },
+                {
+                    "indices": [
+                        92,
+                        98
+                    ],
+                    "text": "SP500"
+                },
+                {
+                    "indices": [
+                        99,
+                        106
+                    ],
+                    "text": "Nasdaq"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 805523277066010624,
+        "id_str": "805523277066010624",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Dow -21.51 (-0.11%) S&amp;P 500 +0.87 (+0.04%) Nasdaq +4.55 (+0.09%) #ASX #ausbiz #DOWJONES #SP500 #Nasdaq",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 07 00:12:15 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Providing high quality, personalised advice to clients looking to invest in the Australian Share Market. Email: info@hlminvestments.com.au",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hlminvestments.com.au",
+                            "expanded_url": "http://www.hlminvestments.com.au",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/ycEudeqmn6"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 7,
+            "follow_request_sent": false,
+            "followers_count": 178,
+            "following": false,
+            "friends_count": 125,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1155479088,
+            "id_str": "1155479088",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 15,
+            "location": "Adelaide, SA",
+            "name": "HLM Investments",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155479088/1360625550",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3241123257/503e10ea12aa570e3da230b1485b6fee_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3241123257/503e10ea12aa570e3da230b1485b6fee_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "HLMInvestments",
+            "statuses_count": 2428,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/ycEudeqmn6",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 21:24:49 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        69,
+                        73
+                    ],
+                    "text": "ASX"
+                },
+                {
+                    "indices": [
+                        74,
+                        81
+                    ],
+                    "text": "ausbiz"
+                },
+                {
+                    "indices": [
+                        82,
+                        91
+                    ],
+                    "text": "DOWJONES"
+                },
+                {
+                    "indices": [
+                        92,
+                        98
+                    ],
+                    "text": "SP500"
+                },
+                {
+                    "indices": [
+                        99,
+                        106
+                    ],
+                    "text": "Nasdaq"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 805523277019893760,
+        "id_str": "805523277019893760",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Dow -21.51 (-0.11%) S&amp;P 500 +0.87 (+0.04%) Nasdaq +4.55 (+0.09%) #ASX #ausbiz #DOWJONES #SP500 #Nasdaq",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Mar 03 11:39:21 +0000 2011",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Equities Adviser who operates his own shares advisory business @hlminvestments,",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "hlminvestments.com.au",
+                            "expanded_url": "http://www.hlminvestments.com.au",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/ycEudeHpp6"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 613,
+            "follow_request_sent": false,
+            "followers_count": 666,
+            "following": false,
+            "friends_count": 267,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 260191826,
+            "id_str": "260191826",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 26,
+            "location": "Adelaide",
+            "name": "Heath Moss",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/512111037651226624/zUpj1AEL_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/512111037651226624/zUpj1AEL_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "heathmoss83",
+            "statuses_count": 7261,
+            "time_zone": "Adelaide",
+            "translator_type": "none",
+            "url": "http://t.co/ycEudeHpp6",
+            "utc_offset": 37800,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 15:38:18 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        4,
+                        13
+                    ],
+                    "text": "DowJones"
+                },
+                {
+                    "indices": [
+                        32,
+                        37
+                    ],
+                    "text": "2k16"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tacticalinvestor.com/the-dow-jones-\u2026",
+                    "expanded_url": "http://tacticalinvestor.com/the-dow-jones-destined-to-trade-much-higher-in-2016/",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/rCfd73Y2Zw"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805436073539203073,
+        "id_str": "805436073539203073",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "The #DowJones will not crash in #2k16 - bears will get clobbered https://t.co/rCfd73Y2Zw",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 11 11:46:03 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Investing coffee into #Politics and #StockMarkets\n#Deplorable and #Proud !",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/2beivO2",
+                            "expanded_url": "http://bit.ly/2beivO2",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vtpKi0apKe"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1087,
+            "follow_request_sent": false,
+            "followers_count": 16721,
+            "following": false,
+            "friends_count": 17922,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 763703020198690816,
+            "id_str": "763703020198690816",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 328,
+            "location": "Tactical Investor",
+            "name": "Stocks_&_Dividends",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/763703020198690816/1471943037",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/768016641527574528/TgX4n8fO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/768016641527574528/TgX4n8fO_normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Jedi_Pite_Bre",
+            "statuses_count": 81525,
+            "time_zone": "Belgrade",
+            "translator_type": "none",
+            "url": "https://t.co/vtpKi0apKe",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 15:35:18 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        4,
+                        13
+                    ],
+                    "text": "DowJones"
+                },
+                {
+                    "indices": [
+                        32,
+                        37
+                    ],
+                    "text": "2k16"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tacticalinvestor.com/the-dow-jones-\u2026",
+                    "expanded_url": "http://tacticalinvestor.com/the-dow-jones-destined-to-trade-much-higher-in-2016/",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/YKLwEkaLTu"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805435317704650752,
+        "id_str": "805435317704650752",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.example.com\" rel=\"nofollow\">Following_The_People</a>",
+        "text": "The #DowJones will not crash in #2k16 - bears will get clobbered https://t.co/YKLwEkaLTu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 02 21:14:49 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Utilizing key elements of Technical analysis with the most compelling elements of mass psychology to determine stock market topping and bottoming action.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/1Qht1Dn",
+                            "expanded_url": "http://bit.ly/1Qht1Dn",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/wXPMi8VnSt"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 5610,
+            "follow_request_sent": false,
+            "followers_count": 96034,
+            "following": false,
+            "friends_count": 71379,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 119161370,
+            "id_str": "119161370",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1169,
+            "location": "USA",
+            "name": "Tactical Investor",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645859149876596736/ScYQgocw.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645859149876596736/ScYQgocw.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119161370/1472398455",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/787169448067158016/6Yss4m2u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/787169448067158016/6Yss4m2u_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "saul42",
+            "statuses_count": 137553,
+            "time_zone": "Central Time (US & Canada)",
+            "translator_type": "none",
+            "url": "https://t.co/wXPMi8VnSt",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 14:24:56 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        59,
+                        65
+                    ],
+                    "text": "bolsa"
+                },
+                {
+                    "indices": [
+                        66,
+                        75
+                    ],
+                    "text": "dowjones"
+                },
+                {
+                    "indices": [
+                        76,
+                        84
+                    ],
+                    "text": "trading"
+                },
+                {
+                    "indices": [
+                        85,
+                        94
+                    ],
+                    "text": "inversor"
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        95,
+                        99
+                    ],
+                    "text": "DXY"
+                }
+            ],
+            "urls": [
+                {
+                    "display_url": "youtu.be/7pXg1Dne00s",
+                    "expanded_url": "https://youtu.be/7pXg1Dne00s",
+                    "indices": [
+                        100,
+                        123
+                    ],
+                    "url": "https://t.co/HJlnCATKAo"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 10228272,
+                    "id_str": "10228272",
+                    "indices": [
+                        128,
+                        136
+                    ],
+                    "name": "YouTube",
+                    "screen_name": "YouTube"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805417610187776004,
+        "id_str": "805417610187776004",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "An\u00e1lisis semanal del 5 de Diciembre al 9 de Diciembre 2016 #bolsa #dowjones #trading #inversor $DXY https://t.co/HJlnCATKAo v\u00eda @YouTube",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 13 14:19:59 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Trader, Producer. contact me sergiok.kilembe@gmail.com",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 31,
+            "following": false,
+            "friends_count": 32,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 3323086745,
+            "id_str": "3323086745",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 15,
+            "location": "Madrid, Comunidad de Madrid",
+            "name": "Sergio K. Kilembe",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3323086745/1434206352",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/686855981255491584/t5vTmJTk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/686855981255491584/t5vTmJTk_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SergeKilembe",
+            "statuses_count": 138,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 14:08:02 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        18,
+                        22
+                    ],
+                    "text": "UPM"
+                },
+                {
+                    "indices": [
+                        42,
+                        57
+                    ],
+                    "text": "sustainability"
+                },
+                {
+                    "indices": [
+                        83,
+                        92
+                    ],
+                    "text": "dowjones"
+                },
+                {
+                    "indices": [
+                        93,
+                        108
+                    ],
+                    "text": "forestindustry"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2ceG616",
+                    "expanded_url": "http://bit.ly/2ceG616",
+                    "indices": [
+                        109,
+                        132
+                    ],
+                    "url": "https://t.co/0Psf9Vxj2Y"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2999618393,
+                    "id_str": "2999618393",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "UPM Biofuels",
+                    "screen_name": "UPM_Biofuels"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805413354776956928,
+        "id_str": "805413354776956928",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 5,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Sep 09 14:42:24 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            4
+                        ],
+                        "text": "UPM"
+                    },
+                    {
+                        "indices": [
+                            24,
+                            39
+                        ],
+                        "text": "sustainability"
+                    },
+                    {
+                        "indices": [
+                            65,
+                            74
+                        ],
+                        "text": "dowjones"
+                    },
+                    {
+                        "indices": [
+                            75,
+                            90
+                        ],
+                        "text": "forestindustry"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/fTJyvuH2H4",
+                        "expanded_url": "https://twitter.com/UPM_Biofuels/status/774256646348480512/photo/1",
+                        "id": 774256623485419520,
+                        "id_str": "774256623485419520",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cr62S__XgAA1487.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cr62S__XgAA1487.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1137,
+                                "resize": "fit",
+                                "w": 1262
+                            },
+                            "medium": {
+                                "h": 1081,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 613,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/fTJyvuH2H4"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2ceG616",
+                        "expanded_url": "http://bit.ly/2ceG616",
+                        "indices": [
+                            91,
+                            114
+                        ],
+                        "url": "https://t.co/0Psf9Vxj2Y"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/fTJyvuH2H4",
+                        "expanded_url": "https://twitter.com/UPM_Biofuels/status/774256646348480512/photo/1",
+                        "id": 774256623485419520,
+                        "id_str": "774256623485419520",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cr62S__XgAA1487.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cr62S__XgAA1487.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1137,
+                                "resize": "fit",
+                                "w": 1262
+                            },
+                            "medium": {
+                                "h": 1081,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 613,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/fTJyvuH2H4"
+                    }
+                ]
+            },
+            "favorite_count": 7,
+            "favorited": false,
+            "geo": null,
+            "id": 774256646348480512,
+            "id_str": "774256646348480512",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 5,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "#UPM industry leader in #sustainability for 5th consecutive year #dowjones #forestindustry https://t.co/0Psf9Vxj2Y https://t.co/fTJyvuH2H4",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jan 26 13:23:31 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Driving cleaner traffic through #innovation in advanced #biofuels. #renewables #bioeconomy #circulareconomy #sustainability",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "upmbiofuels.com",
+                                "expanded_url": "http://www.upmbiofuels.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/1FRsuOu2RG"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 404,
+                "follow_request_sent": false,
+                "followers_count": 791,
+                "following": false,
+                "friends_count": 204,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2999618393,
+                "id_str": "2999618393",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 43,
+                "location": "Helsinki &Lappeenranta Finland",
+                "name": "UPM Biofuels",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2999618393/1423832497",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/605292527160315904/ZYGdU36n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/605292527160315904/ZYGdU36n_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "UPM_Biofuels",
+                "statuses_count": 1248,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/1FRsuOu2RG",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @UPM_Biofuels: #UPM industry leader in #sustainability for 5th consecutive year #dowjones #forestindustry https://t.co/0Psf9Vxj2Y https:\u2026",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jun 17 15:36:18 +0000 2012",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 328192,
+            "follow_request_sent": false,
+            "followers_count": 4358,
+            "following": false,
+            "friends_count": 5001,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 610904764,
+            "id_str": "610904764",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "fr",
+            "listed_count": 6982,
+            "location": "",
+            "name": "FARES EL AROUI",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/610904764/1398441826",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/459716655581364224/L2RGYkk5_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/459716655581364224/L2RGYkk5_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BioFares",
+            "statuses_count": 752161,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 12:57:38 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        55,
+                        59
+                    ],
+                    "text": "dax"
+                },
+                {
+                    "indices": [
+                        60,
+                        69
+                    ],
+                    "text": "dowjones"
+                },
+                {
+                    "indices": [
+                        70,
+                        79
+                    ],
+                    "text": "ausblick"
+                },
+                {
+                    "indices": [
+                        80,
+                        92
+                    ],
+                    "text": "renzirendum"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "boerse.ard.de/aktien/draghi-\u2026",
+                    "expanded_url": "http://boerse.ard.de/aktien/draghi-und-kollegen-sollen-es-richten100.html",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "url": "https://t.co/nGeDvxVZWj"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 2974800400,
+                    "id_str": "2974800400",
+                    "indices": [
+                        3,
+                        13
+                    ],
+                    "name": "B\u00f6rse ARD",
+                    "screen_name": "boerseARD"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805395637424496640,
+        "id_str": "805395637424496640",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "de",
+        "metadata": {
+            "iso_language_code": "de",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 04 12:04:59 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            40,
+                            44
+                        ],
+                        "text": "dax"
+                    },
+                    {
+                        "indices": [
+                            45,
+                            54
+                        ],
+                        "text": "dowjones"
+                    },
+                    {
+                        "indices": [
+                            55,
+                            64
+                        ],
+                        "text": "ausblick"
+                    },
+                    {
+                        "indices": [
+                            65,
+                            77
+                        ],
+                        "text": "renzirendum"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "boerse.ard.de/aktien/draghi-\u2026",
+                        "expanded_url": "http://boerse.ard.de/aktien/draghi-und-kollegen-sollen-es-richten100.html",
+                        "indices": [
+                            78,
+                            101
+                        ],
+                        "url": "https://t.co/nGeDvxVZWj"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "geo": null,
+            "id": 805382390470373376,
+            "id_str": "805382390470373376",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "de",
+            "metadata": {
+                "iso_language_code": "de",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Draghi &amp; Kollegen sollen es richten #dax #dowjones #ausblick #renzirendum https://t.co/nGeDvxVZWj",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jan 12 14:29:15 +0000 2015",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Hier twittert die B\u00f6rsenredaktion der ARD. // https://t.co/kfTpPA5IBd // Impressum: https://t.co/NaG4Ew2s3g",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "facebook.com/boerseARD",
+                                "expanded_url": "http://facebook.com/boerseARD",
+                                "indices": [
+                                    46,
+                                    69
+                                ],
+                                "url": "https://t.co/kfTpPA5IBd"
+                            },
+                            {
+                                "display_url": "bit.ly/1BSXYFh",
+                                "expanded_url": "http://bit.ly/1BSXYFh",
+                                "indices": [
+                                    84,
+                                    107
+                                ],
+                                "url": "https://t.co/NaG4Ew2s3g"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "boerse.ARD.de",
+                                "expanded_url": "http://boerse.ARD.de",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/OF5PamasdI"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 150,
+                "follow_request_sent": false,
+                "followers_count": 2530,
+                "following": false,
+                "friends_count": 237,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 2974800400,
+                "id_str": "2974800400",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "de",
+                "listed_count": 220,
+                "location": "Frankfurt",
+                "name": "B\u00f6rse ARD",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2974800400/1421073104",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/666163579700277248/vIv69HhR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/666163579700277248/vIv69HhR_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "boerseARD",
+                "statuses_count": 7274,
+                "time_zone": "Ljubljana",
+                "translator_type": "none",
+                "url": "http://t.co/OF5PamasdI",
+                "utc_offset": 3600,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @boerseARD: Draghi &amp; Kollegen sollen es richten #dax #dowjones #ausblick #renzirendum https://t.co/nGeDvxVZWj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 24 08:55:37 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Im Nordsternpark",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 21678,
+            "follow_request_sent": false,
+            "followers_count": 14,
+            "following": false,
+            "friends_count": 593,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 757137144896954368,
+            "id_str": "757137144896954368",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "de",
+            "listed_count": 6,
+            "location": "Gelsenkirchen, Nordrhein-Westf",
+            "name": "Tim Mackowiak",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/757137144896954368/1469352152",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/757143926969171968/SJ0b3g_t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/757143926969171968/SJ0b3g_t_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "wildeschlange1",
+            "statuses_count": 36710,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 12:04:59 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        44
+                    ],
+                    "text": "dax"
+                },
+                {
+                    "indices": [
+                        45,
+                        54
+                    ],
+                    "text": "dowjones"
+                },
+                {
+                    "indices": [
+                        55,
+                        64
+                    ],
+                    "text": "ausblick"
+                },
+                {
+                    "indices": [
+                        65,
+                        77
+                    ],
+                    "text": "renzirendum"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "boerse.ard.de/aktien/draghi-\u2026",
+                    "expanded_url": "http://boerse.ard.de/aktien/draghi-und-kollegen-sollen-es-richten100.html",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "url": "https://t.co/nGeDvxVZWj"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "geo": null,
+        "id": 805382390470373376,
+        "id_str": "805382390470373376",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "de",
+        "metadata": {
+            "iso_language_code": "de",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Draghi &amp; Kollegen sollen es richten #dax #dowjones #ausblick #renzirendum https://t.co/nGeDvxVZWj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 12 14:29:15 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Hier twittert die B\u00f6rsenredaktion der ARD. // https://t.co/kfTpPA5IBd // Impressum: https://t.co/NaG4Ew2s3g",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "facebook.com/boerseARD",
+                            "expanded_url": "http://facebook.com/boerseARD",
+                            "indices": [
+                                46,
+                                69
+                            ],
+                            "url": "https://t.co/kfTpPA5IBd"
+                        },
+                        {
+                            "display_url": "bit.ly/1BSXYFh",
+                            "expanded_url": "http://bit.ly/1BSXYFh",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "url": "https://t.co/NaG4Ew2s3g"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "boerse.ARD.de",
+                            "expanded_url": "http://boerse.ARD.de",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/OF5PamasdI"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 150,
+            "follow_request_sent": false,
+            "followers_count": 2530,
+            "following": false,
+            "friends_count": 237,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 2974800400,
+            "id_str": "2974800400",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "de",
+            "listed_count": 220,
+            "location": "Frankfurt",
+            "name": "B\u00f6rse ARD",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2974800400/1421073104",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/666163579700277248/vIv69HhR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/666163579700277248/vIv69HhR_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "boerseARD",
+            "statuses_count": 7274,
+            "time_zone": "Ljubljana",
+            "translator_type": "none",
+            "url": "http://t.co/OF5PamasdI",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 11:05:08 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "text": "dowJones"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/notidwjns",
+                    "expanded_url": "http://bit.ly/notidwjns",
+                    "indices": [
+                        78,
+                        101
+                    ],
+                    "url": "https://t.co/aUPacZnUdj"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805367326069624832,
+        "id_str": "805367326069624832",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "es",
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.botize.com\" rel=\"nofollow\">Botize</a>",
+        "text": "#dowJones Wall Street cierra mixto y el Dow Jones cede un 0, 11 % - LadoCulto https://t.co/aUPacZnUdj",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 29 03:11:43 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "So Happy!!!!",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 1269,
+            "follow_request_sent": false,
+            "followers_count": 3109,
+            "following": false,
+            "friends_count": 2472,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 593300315,
+            "id_str": "593300315",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "es",
+            "listed_count": 122,
+            "location": "M\u00e9xico",
+            "name": "Mayra L\u00f3pez",
+            "notifications": false,
+            "profile_background_color": "DBE9ED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/593300315/1391019806",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/485085246996484097/GmjXwp71_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/485085246996484097/GmjXwp71_normal.png",
+            "profile_link_color": "CC3366",
+            "profile_sidebar_border_color": "DBE9ED",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Mayita_Lpz",
+            "statuses_count": 29635,
+            "time_zone": "Eastern Time (US & Canada)",
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": -18000,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 08:53:37 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        85,
+                        94
+                    ],
+                    "text": "DOWJONES"
+                },
+                {
+                    "indices": [
+                        95,
+                        106
+                    ],
+                    "text": "WALLSTREET"
+                },
+                {
+                    "indices": [
+                        107,
+                        114
+                    ],
+                    "text": "DOLLAR"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "bit.ly/2h73LVA#NASDAQ",
+                    "expanded_url": "http://bit.ly/2h73LVA#NASDAQ",
+                    "indices": [
+                        61,
+                        84
+                    ],
+                    "url": "https://t.co/PvKfvjEEVA"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805334228900741120,
+        "id_str": "805334228900741120",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "SVJETSKA TR\u017dI\u0160TA: Nakon tri tjedna rasta svjetske burze pale https://t.co/PvKfvjEEVA #DOWJONES #WALLSTREET #DOLLAR",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Jan 12 09:16:58 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Objektivni, analiticni, tocni.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "politikaplus.com",
+                            "expanded_url": "http://www.politikaplus.com/",
+                            "indices": [
+                                0,
+                                22
+                            ],
+                            "url": "http://t.co/kX4sno5uqi"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 183,
+            "follow_request_sent": false,
+            "followers_count": 4867,
+            "following": false,
+            "friends_count": 1651,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 461881205,
+            "id_str": "461881205",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 122,
+            "location": "Zagreb, Brozova 8a",
+            "name": "PolitikaPlus",
+            "notifications": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/400999973/Untitled-1.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/400999973/Untitled-1.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1754907998/282566_193555427364179_181596931893362_474943_1511866_n_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1754907998/282566_193555427364179_181596931893362_474943_1511866_n_normal.jpg",
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "PolitikaPlus",
+            "statuses_count": 112671,
+            "time_zone": "Zagreb",
+            "translator_type": "none",
+            "url": "http://t.co/kX4sno5uqi",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 07:56:25 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        51
+                    ],
+                    "text": "JerseyCity"
+                },
+                {
+                    "indices": [
+                        52,
+                        57
+                    ],
+                    "text": "Mets"
+                },
+                {
+                    "indices": [
+                        58,
+                        65
+                    ],
+                    "text": "RedSox"
+                },
+                {
+                    "indices": [
+                        66,
+                        76
+                    ],
+                    "text": "Manhattan"
+                },
+                {
+                    "indices": [
+                        77,
+                        86
+                    ],
+                    "text": "DowJones"
+                },
+                {
+                    "indices": [
+                        88,
+                        100
+                    ],
+                    "text": "CaptainKidd"
+                },
+                {
+                    "indices": [
+                        101,
+                        116
+                    ],
+                    "text": "BernardMalamud"
+                },
+                {
+                    "indices": [
+                        117,
+                        126
+                    ],
+                    "text": "RoyHobbs"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 4111103854,
+                    "id_str": "4111103854",
+                    "indices": [
+                        3,
+                        12
+                    ],
+                    "name": "S.P. Medway",
+                    "screen_name": "medway_s"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805319834426834944,
+        "id_str": "805319834426834944",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 32,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Thu Nov 17 21:14:39 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            26,
+                            37
+                        ],
+                        "text": "JerseyCity"
+                    },
+                    {
+                        "indices": [
+                            38,
+                            43
+                        ],
+                        "text": "Mets"
+                    },
+                    {
+                        "indices": [
+                            44,
+                            51
+                        ],
+                        "text": "RedSox"
+                    },
+                    {
+                        "indices": [
+                            52,
+                            62
+                        ],
+                        "text": "Manhattan"
+                    },
+                    {
+                        "indices": [
+                            63,
+                            72
+                        ],
+                        "text": "DowJones"
+                    },
+                    {
+                        "indices": [
+                            74,
+                            86
+                        ],
+                        "text": "CaptainKidd"
+                    },
+                    {
+                        "indices": [
+                            87,
+                            102
+                        ],
+                        "text": "BernardMalamud"
+                    },
+                    {
+                        "indices": [
+                            103,
+                            112
+                        ],
+                        "text": "RoyHobbs"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/7\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/799360122220843010",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "url": "https://t.co/6VFqWOjuvY"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 15,
+            "favorited": false,
+            "geo": null,
+            "id": 799360122220843010,
+            "id_str": "799360122220843010",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 32,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "text": "Meet Cornelius Endecott. \n#JerseyCity #Mets #RedSox #Manhattan #DowJones  #CaptainKidd #BernardMalamud #RoyHobbs\u2026 https://t.co/6VFqWOjuvY",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Nov 04 09:37:32 +0000 2015",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Author of 'The Jersey City Fortune Teller', a mystery ride you must read. It's only a matter of time before you arrive. How could you have known until now?",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "spmedway.com",
+                                "expanded_url": "http://spmedway.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/lT5JMDhM1x"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 6461,
+                "follow_request_sent": false,
+                "followers_count": 5439,
+                "following": false,
+                "friends_count": 5214,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 4111103854,
+                "id_str": "4111103854",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 582,
+                "location": "England, United Kingdom",
+                "name": "S.P. Medway",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4111103854/1447264745",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/664502958093135872/iTxT8Ohi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/664502958093135872/iTxT8Ohi_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "medway_s",
+                "statuses_count": 19497,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/lT5JMDhM1x",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @medway_s: Meet Cornelius Endecott. \n#JerseyCity #Mets #RedSox #Manhattan #DowJones  #CaptainKidd #BernardMalamud #RoyHobbs #sundancefil\u2026",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 11 11:44:32 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 28,
+            "follow_request_sent": false,
+            "followers_count": 48,
+            "following": false,
+            "friends_count": 201,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1662330018,
+            "id_str": "1662330018",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 0,
+            "location": "",
+            "name": "sachin jadhav",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662330018/1407331345",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/696401183838064641/V_P-eeKf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/696401183838064641/V_P-eeKf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sachinvjcorner",
+            "statuses_count": 37,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 06:14:26 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        10,
+                        18
+                    ],
+                    "text": "monthly"
+                },
+                {
+                    "indices": [
+                        81,
+                        90
+                    ],
+                    "text": "dowjones"
+                },
+                {
+                    "indices": [
+                        91,
+                        105
+                    ],
+                    "text": "dowjoneschart"
+                },
+                {
+                    "indices": [
+                        106,
+                        125
+                    ],
+                    "text": "dowjonesfuturetips"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "goo.gl/fb/J5oPN1",
+                    "expanded_url": "https://goo.gl/fb/J5oPN1",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "url": "https://t.co/h0cXFzKyUX"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 805294169090572289,
+        "id_str": "805294169090572289",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+        "text": "Dow jones #monthly-December targets 19625 and then 20100 https://t.co/h0cXFzKyUX #dowjones #dowjoneschart #dowjonesfuturetips",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Dec 13 07:20:23 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Trader and Adviser Working since 2007. future,option,commodity,currency and stock tips on Whatsapp. follow up and support only available for paid subscribers.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "dalalstreetwinners.com",
+                            "expanded_url": "http://www.dalalstreetwinners.com/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/tAQwLoZfIs"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 20,
+            "follow_request_sent": false,
+            "followers_count": 1801,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 96505990,
+            "id_str": "96505990",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 101,
+            "location": "Aurangabad",
+            "name": "Pramod D Baviskar",
+            "notifications": false,
+            "profile_background_color": "FAFDFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/599765520/t0ti6168fca000a7esyp.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/599765520/t0ti6168fca000a7esyp.jpeg",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/96505990/1393789480",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/738383947642474496/LTRUcsC9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/738383947642474496/LTRUcsC9_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DSWINDIA",
+            "statuses_count": 35374,
+            "time_zone": "New Delhi",
+            "translator_type": "none",
+            "url": "https://t.co/tAQwLoZfIs",
+            "utc_offset": 19800,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 05:19:41 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        17,
+                        26
+                    ],
+                    "text": "DowJones"
+                }
+            ],
+            "symbols": [
+                {
+                    "indices": [
+                        130,
+                        135
+                    ],
+                    "text": "DJIA"
+                }
+            ],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1479951889,
+                    "id_str": "1479951889",
+                    "indices": [
+                        3,
+                        15
+                    ],
+                    "name": "Amateurader",
+                    "screen_name": "Amateurader"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805280390814515200,
+        "id_str": "805280390814515200",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "retweet_count": 1,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Dec 04 05:02:05 +0000 2016",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            9
+                        ],
+                        "text": "DowJones"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/805275964410195968",
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "url": "https://t.co/cdJibUHuXf"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 805275964410195968,
+            "id_str": "805275964410195968",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 1,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "#DowJones monthly chart testing R1 to confirm or break and push to \"head\" part of shoulder. I think it'll break\u2026 https://t.co/cdJibUHuXf",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jun 03 15:10:53 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Amateur trader.  Tweets aren't recommendations or advice.  Just like to share my thoughts on #Bitcoin and #trading. $BTCUSD $BTC $SPX $VIX",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 0,
+                "follow_request_sent": false,
+                "followers_count": 57,
+                "following": false,
+                "friends_count": 180,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1479951889,
+                "id_str": "1479951889",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 6,
+                "location": "Sacramento, CA",
+                "name": "Amateurader",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479951889/1480114908",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/801313078516256768/VbtOvEsL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/801313078516256768/VbtOvEsL_normal.jpg",
+                "profile_link_color": "1800F0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "Amateurader",
+                "statuses_count": 32,
+                "time_zone": "Pacific Time (US & Canada)",
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "text": "RT @Amateurader: #DowJones monthly chart testing R1 to confirm or break and push to \"head\" part of shoulder. I think it'll break\n\n$DJIA $IN\u2026",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Oct 03 04:28:31 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 553,
+            "follow_request_sent": false,
+            "followers_count": 1416,
+            "following": false,
+            "friends_count": 1111,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 2801334731,
+            "id_str": "2801334731",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 887,
+            "location": "",
+            "name": "trader whodont trade",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2801334731/1412850943",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556454430032551936/lD-7VMlA_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556454430032551936/lD-7VMlA_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "diggingplatinum",
+            "statuses_count": 93348,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 05:02:05 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "text": "DowJones"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/805275964410195968",
+                    "indices": [
+                        113,
+                        136
+                    ],
+                    "url": "https://t.co/cdJibUHuXf"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805275964410195968,
+        "id_str": "805275964410195968",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "#DowJones monthly chart testing R1 to confirm or break and push to \"head\" part of shoulder. I think it'll break\u2026 https://t.co/cdJibUHuXf",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 03 15:10:53 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Amateur trader.  Tweets aren't recommendations or advice.  Just like to share my thoughts on #Bitcoin and #trading. $BTCUSD $BTC $SPX $VIX",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 0,
+            "follow_request_sent": false,
+            "followers_count": 57,
+            "following": false,
+            "friends_count": 180,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1479951889,
+            "id_str": "1479951889",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 6,
+            "location": "Sacramento, CA",
+            "name": "Amateurader",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479951889/1480114908",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/801313078516256768/VbtOvEsL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/801313078516256768/VbtOvEsL_normal.jpg",
+            "profile_link_color": "1800F0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Amateurader",
+            "statuses_count": 32,
+            "time_zone": "Pacific Time (US & Canada)",
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": -28800,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 03:24:19 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        123,
+                        132
+                    ],
+                    "text": "DowJones"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 765616871567568896,
+                    "id_str": "765616871567568896",
+                    "indices": [
+                        3,
+                        13
+                    ],
+                    "name": "\ud83d\udca0Michelle\ud83d\udca0",
+                    "screen_name": "mrntweet2"
+                },
+                {
+                    "id": 25073877,
+                    "id_str": "25073877",
+                    "indices": [
+                        55,
+                        71
+                    ],
+                    "name": "Donald J. Trump",
+                    "screen_name": "realDonaldTrump"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805251359046070274,
+        "id_str": "805251359046070274",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": true,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "quoted_status_id": 804692556546244609,
+        "quoted_status_id_str": "804692556546244609",
+        "retweet_count": 33,
+        "retweeted": false,
+        "retweeted_status": {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Fri Dec 02 14:33:32 +0000 2016",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/8\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/804694997362561024",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "url": "https://t.co/TvFoitg8Dd"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 25073877,
+                        "id_str": "25073877",
+                        "indices": [
+                            40,
+                            56
+                        ],
+                        "name": "Donald J. Trump",
+                        "screen_name": "realDonaldTrump"
+                    }
+                ]
+            },
+            "favorite_count": 53,
+            "favorited": false,
+            "geo": null,
+            "id": 804694997362561024,
+            "id_str": "804694997362561024",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "quoted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Fri Dec 02 14:23:50 +0000 2016",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "indices": [
+                                72,
+                                86
+                            ],
+                            "text": "postfactworld"
+                        },
+                        {
+                            "indices": [
+                                87,
+                                99
+                            ],
+                            "text": "factsmatter"
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/mrntweet2/stat\u2026",
+                            "expanded_url": "https://twitter.com/mrntweet2/status/804691289614581760",
+                            "indices": [
+                                100,
+                                123
+                            ],
+                            "url": "https://t.co/h31dMVISyu"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 0,
+                "favorited": false,
+                "geo": null,
+                "id": 804692556546244609,
+                "id_str": "804692556546244609",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status_id": 804691289614581760,
+                "quoted_status_id_str": "804691289614581760",
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "So now Trump supporters are claiming credit for the latest jobs report? #postfactworld #factsmatter https://t.co/h31dMVISyu",
+                "truncated": false,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Oct 14 07:42:54 +0000 2016",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Jointed twitter to figure out what the hell is going on in this election.  I don't block people who disagree with me.  That's just hiding.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 934,
+                    "follow_request_sent": false,
+                    "followers_count": 42,
+                    "following": false,
+                    "friends_count": 158,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 786834649611919361,
+                    "id_str": "786834649611919361",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en-gb",
+                    "listed_count": 5,
+                    "location": "London, England",
+                    "name": "Leila Pittaway",
+                    "notifications": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/788288668737896448/j_zsyzd0_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/788288668737896448/j_zsyzd0_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "VinoVertias",
+                    "statuses_count": 1877,
+                    "time_zone": null,
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": null,
+                    "verified": false
+                }
+            },
+            "quoted_status_id": 804692556546244609,
+            "quoted_status_id_str": "804692556546244609",
+            "retweet_count": 33,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Just claiming credit for the 1,100 jobs @realDonaldTrump saved BEFORE he stepped foot in the White House. \ud83d\udc85\u2026 https://t.co/TvFoitg8Dd",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Aug 16 18:31:01 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "\ud83c\uddfa\ud83c\uddf8 #TeamKJ \ud83c\uddfa\ud83c\uddf8 #TrumpArmy \ud83c\uddfa\ud83c\uddf8 #RightWing \ud83c\uddfa\ud83c\uddf8 #WomenForTrump \ud83c\uddfa\ud83c\uddf8 #WomenWhoWork \ud83c\uddfa\ud83c\uddf8https://t.co/DaW5D4dNcb \ud83c\uddfa\ud83c\uddf8 https://t.co/CLUMQN9x3h \ud83c\uddfa\ud83c\uddf8",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "TeaPartyCommunity.com",
+                                "expanded_url": "http://TeaPartyCommunity.com",
+                                "indices": [
+                                    76,
+                                    99
+                                ],
+                                "url": "https://t.co/DaW5D4dNcb"
+                            },
+                            {
+                                "display_url": "kjradio.com",
+                                "expanded_url": "http://kjradio.com",
+                                "indices": [
+                                    103,
+                                    126
+                                ],
+                                "url": "https://t.co/CLUMQN9x3h"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4569,
+                "follow_request_sent": false,
+                "followers_count": 15302,
+                "following": false,
+                "friends_count": 9639,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 765616871567568896,
+                "id_str": "765616871567568896",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 67,
+                "location": "San Diego, CA",
+                "name": "\ud83d\udca0Michelle\ud83d\udca0",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/765616871567568896/1480183954",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/805235778699677696/Ot9Z0M5z_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/805235778699677696/Ot9Z0M5z_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "mrntweet2",
+                "statuses_count": 10435,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "RT @mrntweet2: Just claiming credit for the 1,100 jobs @realDonaldTrump saved BEFORE he stepped foot in the White House. \ud83d\udc85\n#DowJones #Carri\u2026",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Nov 26 06:07:24 +0000 2015",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Financial Professional looking to help America to be #1 again and make the World a better place tomorrow and always. \nGod bless US All..with Love,WC, GO TRUMP",
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "favourites_count": 27346,
+            "follow_request_sent": false,
+            "followers_count": 2643,
+            "following": false,
+            "friends_count": 3279,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 4282439188,
+            "id_str": "4282439188",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 81,
+            "location": "North Carolina, USA",
+            "name": "Deplorable  Callahan",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4282439188/1461192016",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745861795957583872/gFFjORdI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745861795957583872/gFFjORdI_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "WalterCallahan1",
+            "statuses_count": 26894,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 02:23:13 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        4,
+                        13
+                    ],
+                    "text": "DowJones"
+                },
+                {
+                    "indices": [
+                        32,
+                        37
+                    ],
+                    "text": "2k16"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tacticalinvestor.com/the-dow-jones-\u2026",
+                    "expanded_url": "http://tacticalinvestor.com/the-dow-jones-destined-to-trade-much-higher-in-2016/",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/rCfd73Y2Zw"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "geo": null,
+        "id": 805235981938999297,
+        "id_str": "805235981938999297",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "The #DowJones will not crash in #2k16 - bears will get clobbered https://t.co/rCfd73Y2Zw",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 11 11:46:03 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Investing coffee into #Politics and #StockMarkets\n#Deplorable and #Proud !",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/2beivO2",
+                            "expanded_url": "http://bit.ly/2beivO2",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/vtpKi0apKe"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 1087,
+            "follow_request_sent": false,
+            "followers_count": 16721,
+            "following": false,
+            "friends_count": 17922,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 763703020198690816,
+            "id_str": "763703020198690816",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 328,
+            "location": "Tactical Investor",
+            "name": "Stocks_&_Dividends",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/763703020198690816/1471943037",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/768016641527574528/TgX4n8fO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/768016641527574528/TgX4n8fO_normal.jpg",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "Jedi_Pite_Bre",
+            "statuses_count": 81525,
+            "time_zone": "Belgrade",
+            "translator_type": "none",
+            "url": "https://t.co/vtpKi0apKe",
+            "utc_offset": 3600,
+            "verified": false
+        }
+    },
+    {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Sun Dec 04 02:21:47 +0000 2016",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        4,
+                        13
+                    ],
+                    "text": "DowJones"
+                },
+                {
+                    "indices": [
+                        32,
+                        37
+                    ],
+                    "text": "2k16"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "tacticalinvestor.com/the-dow-jones-\u2026",
+                    "expanded_url": "http://tacticalinvestor.com/the-dow-jones-destined-to-trade-much-higher-in-2016/",
+                    "indices": [
+                        65,
+                        88
+                    ],
+                    "url": "https://t.co/YKLwEkaLTu"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "geo": null,
+        "id": 805235623703572480,
+        "id_str": "805235623703572480",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 0,
+        "retweeted": false,
+        "source": "<a href=\"http://www.example.com\" rel=\"nofollow\">Following_The_People</a>",
+        "text": "The #DowJones will not crash in #2k16 - bears will get clobbered https://t.co/YKLwEkaLTu",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 02 21:14:49 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Utilizing key elements of Technical analysis with the most compelling elements of mass psychology to determine stock market topping and bottoming action.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/1Qht1Dn",
+                            "expanded_url": "http://bit.ly/1Qht1Dn",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/wXPMi8VnSt"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 5610,
+            "follow_request_sent": false,
+            "followers_count": 96034,
+            "following": false,
+            "friends_count": 71379,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 119161370,
+            "id_str": "119161370",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": "en",
+            "listed_count": 1169,
+            "location": "USA",
+            "name": "Tactical Investor",
+            "notifications": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645859149876596736/ScYQgocw.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645859149876596736/ScYQgocw.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/119161370/1472398455",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/787169448067158016/6Yss4m2u_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/787169448067158016/6Yss4m2u_normal.jpg",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "saul42",
+            "statuses_count": 137553,
+            "time_zone": "Central Time (US & Canada)",
+            "translator_type": "none",
+            "url": "https://t.co/wXPMi8VnSt",
+            "utc_offset": -21600,
+            "verified": false
+        }
+    }
+]
