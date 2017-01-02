@@ -3,7 +3,7 @@
 
 This repository contains the deliverables for the Udacity Machine Learning Engineer Nanodegree. The report for this project is SenCast.pdf. All programming was done in the IPython notebook sencast.py27.ipynb. An HTML version of this notebook is saved in sencast.py27.html.
 
-This project uses 3 different sources of data:
+This project uses the following data:
 
 ## Dow Jones Ticker Data
 
