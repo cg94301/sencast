@@ -1,7 +1,6 @@
 # Twitter Sentiment Analysis for Stock Market
-## Udacity MLND Capstone Project
 
-This repository contains the deliverables for the Udacity Machine Learning Engineer Nanodegree capstone. The report for this project is `SenCast.pdf`. All programming was done in the IPython notebook `sencast.py27.ipynb`. An HTML version of this notebook is saved in `sencast.py27.html`.
+All programming was done in the IPython notebook `sencast.py27.ipynb`. An HTML version of this notebook is saved in `sencast.py27.html`.
 
 This project uses the following data:
 
